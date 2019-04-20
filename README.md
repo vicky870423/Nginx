@@ -24,7 +24,7 @@
 
 </div>
 <div align="center">
-   <a href="http://www.geeksparks.com/">由primeton_wuhan汉化</a>
+   <a href="http://www.geeksparks.com/">由primeton_wuhan_oldwang汉化</a>
 </div>
 
 <br>
