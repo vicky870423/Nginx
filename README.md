@@ -21,6 +21,7 @@
   <sub>Created by
   <a href="https://twitter.com/trimstray">trimstray</a> and
   <a href="https://github.com/trimstray/nginx-quick-reference/graphs/contributors">contributors</a>
+  <a href="http://www.geeksparks.com/">由wangwhcore汉化</a>
 </div>
 
 <br>
