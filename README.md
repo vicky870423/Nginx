@@ -23,9 +23,9 @@
   <a href="https://github.com/trimstray/nginx-quick-reference/graphs/contributors">contributors</a>
 
 </div>
-  <div align="center">
-    <a href="http://www.geeksparks.com/">由wangwhcore汉化</a>
-  </div>
+<div align="center">
+   <a href="http://www.geeksparks.com/">由primeton_wuhan汉化</a>
+</div>
 
 <br>
 
